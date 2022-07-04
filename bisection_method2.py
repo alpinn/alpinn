@@ -7,7 +7,7 @@ def metode_biseksi(a, b , e, N):
 
     while(i <= N):
         mid = (a+b)/2
-        i = i-1
+        i = i+1
 
         if abs(f(mid)) < e:
             print("Iterasi ke ",i)
