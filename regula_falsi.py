@@ -16,7 +16,7 @@ def metode_regulaFalsi(a, b , e, n):
     while(i <= n):
         #algorithm : https://iq.opengenus.org/regula-falsi-method/#:~:text=Regula%20Falsi%20method%20or%20the,at%20a%20fairly%20slow%20speed.
         x = (a*f(b)-b*f(a))/(f(b) - f(a))
-        i = i-1
+        i = i+1
 
         #jika f(x) < e maka program berhenti
         if abs(f(x) < e):
