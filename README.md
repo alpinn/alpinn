@@ -21,4 +21,4 @@
 alpinn/alpinn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<h4 style="color:#90F1EF;">Data Structures?? I will run from my life</h4>
+<h4 style="color:#90F1EF;">Data Structures?? What's that?</h4>
