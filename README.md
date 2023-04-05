@@ -16,9 +16,7 @@
 
 <br><br><br>
 
-<a target="blank"><img width="200px" align="center" src="https://user-images.githubusercontent.com/91880482/162707233-27e46ea0-2f48-40f3-b5aa-f5dd982445db.png" style="max-width: 100%;"/></a>
 <!---
 alpinn/alpinn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<h4 style="color:#90F1EF;">Data Structures?? What's that?</h4>
