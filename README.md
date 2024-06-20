@@ -26,7 +26,7 @@
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
 - :computer: I'm a Frontend Developer
-- :hourglass_flowing_sand: Exploring Fullstack Developer
+- :hourglass_flowing_sand: Wannabe Fullstack Developer
 - :zap: Fun fact: I love doing Workout<br>
 
 <h2 align="left">:heart: Let's get connected:</h2>
