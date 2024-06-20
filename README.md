@@ -1,4 +1,4 @@
-<div size="20px" dir="auto"> Hi! My name is Alfinasyah Rifqi. Some fellow called me Alpin<g-emoji class="g-emoji" alias="wave" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f604.png">👋</g-emoji> 
+<div size="20px" dir="auto"> Hi! My name is Alfinasyah Rifqi. Fellows called me Alpin<g-emoji class="g-emoji" alias="wave" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f604.png">👋</g-emoji> 
 </div>
 
 <a rel="nofollow"><img align="center" style="max-width: 100%;"></a> I am a Front End Developer who wants to be Full Stack Developer<br>
