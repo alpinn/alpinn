@@ -16,6 +16,7 @@
  <a href="https://nextjs.org/" target="_blank"> <img src="https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_nextjs.png?raw=true" alt="nextjs" width="50" height="40"/> </a>
       <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
     <a href="https://expressjs.com" target="_blank"> <img src="https://github.com/MarioTerron/logo-images/blob/master/logos/expressjs.png" alt="express" width="80" height="25"/> </a>
+ <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/docker-library/docs/c408469abbac35ad1e4a50a6618836420eb9502e/mysql/logo.png" alt="mysql" width="40" height="40"/> </a>
  <a href="https://www.postgresql.org/" target="_blank"> <img src="https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_postgresql.png?raw=true" alt="postgresql" width="40" height="40"/> </a>
     <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
 <a href="https://www.postman.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
