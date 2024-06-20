@@ -1,5 +1,7 @@
 <h2 align="left">
+ <center>
  <img src="https://raw.githubusercontent.com/snipe/animated-gifs/master/oh-hai-friend/adventure%20time%20dawww.gif" alt="Coder GIF" width="500">
+  </center>
  <abc>
   <br>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
   <br> I'm Alfinasyah Rifqi, Fellows called me Alpin, Front End Developer :computer:<br>
