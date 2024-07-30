@@ -27,7 +27,7 @@
 
 - :computer: I'm a Frontend Developer
 - :hourglass_flowing_sand: Wannabe Fullstack Developer
-- :zap: Fun fact: I love doing Workout<br>
+- :zap: Fun fact: I love Workout<br>
 
 <h2 align="left">:heart: Let's get connected:</h2>
 
