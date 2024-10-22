@@ -31,4 +31,4 @@
 
 <h2 align="left">:heart: Let's get connected:</h2>
 
-[![Linkedin Badge](https://img.shields.io/badge/-AlfinasyahRifqi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alfinasyah-rifqi/)](https://www.linkedin.com/in/alfinasyah-rifqi/)[![Instagram Badge](https://img.shields.io/badge/-@alfin_rfq-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/alfin_rfq/)](https://www.instagram.com/alfin_rfq/)
+[![Instagram Badge](https://img.shields.io/badge/-@alfin_rfq-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/alfin_rfq/)](https://www.instagram.com/alfin_rfq/)
